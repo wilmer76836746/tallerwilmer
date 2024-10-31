@@ -12,7 +12,6 @@
    <form action="validar.php" method="post" autocomplete="off">
     
       <div class="formu_ingreso">        
-        <p><h2>Ingresar al Sistema</h2></p>
         <p><h2>Login:</h2> <input type="text" name="nick" size="11" value="" class="limpiar"></p>        
         <p><h2>Clave:</h2><input type="password" name="password" size="11" value="" ></p>      
         <input type="submit" name="accion" value="Ingresar" size="5" class="boton" id="btn1">        
